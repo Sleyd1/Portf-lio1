@@ -1,0 +1,24 @@
+@media (max-width: 768px){
+  .home {
+    flex-direction: column;
+  
+  }
+  
+  .home .informacoes {
+    max-width: 80%;
+  }
+  
+  .home .informacoes h1 {
+    font-size: 29px;
+  }
+  
+  .home .informacoes p {
+    margin-bottom: 6px;
+    font-size: 19px;
+    
+  }
+  
+  .home .container-foto .foto {
+    max-width: 300px;
+  }
+}
